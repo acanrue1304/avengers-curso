@@ -5,3 +5,4 @@
 * Dr. Herrera
 * Joker
 * Cientifico Flemmin
+* Linterna Verde
